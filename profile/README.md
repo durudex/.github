@@ -4,7 +4,7 @@
 
 **Cool open source social network of the future.**
 
-[Documentation](https://github.com/durudex/durudex)
+[Documentation](https://docs.durudex.com)
 
 # Communities
 **Discord:** [Link](https://discord.gg/4qcXbeVehZ)
