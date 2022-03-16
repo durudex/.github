@@ -6,9 +6,4 @@
 
 [Documentation](https://docs.durudex.com)
 
-# Communities
-**Discord:** [Link](https://discord.gg/4qcXbeVehZ)
-
-**Telegram:** [Link](https://t.me/durudex)
-
 </div>
