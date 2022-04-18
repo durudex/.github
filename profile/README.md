@@ -4,6 +4,6 @@
 
 **🔥 Cool open source social network of the future 🔥**
 
-[Documentation](https://docs.durudex.com)
+[📚 Documentation](https://docs.durudex.com)
 
 </div>
