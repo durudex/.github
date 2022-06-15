@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Durudex Full Logo](https://raw.githubusercontent.com/durudex/durudex-assets/main/img/full-logo.png)](https://docs.durudex.com)
+<img src="https://raw.githubusercontent.com/durudex/durudex-assets/main/img/full-logo.png" alt="Durudex Logo" width="700px" height="180px">
 
 **🔥 Cool open source social network of the future 🔥**
 
